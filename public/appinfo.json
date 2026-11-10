@@ -1,0 +1,13 @@
+{
+  "id": "com.data-divers.iptv",
+  "version": "1.0.0",
+  "vendor": "Data Divers",
+  "type": "web",
+  "main": "index.html",
+  "title": "data divers tv",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "requiredPermissions": [],
+  "requiredACG": [],
+  "resolution": "1920x1080"
+}
